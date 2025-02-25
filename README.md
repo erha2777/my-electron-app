@@ -1,13 +1,14 @@
-### 仿网易云音乐桌面版
+# 仿网易云音乐桌面版
 
-### electron
-
-<img src="https://pic.imgdb.cn/item/63f771d9f144a01007d4c991.png" >
-
-# 运行
+## 运行
 
 ```bash
 npm install
 npm run start
 npm run make
 ```
+
+## 预览
+<img src="https://pic1.imgdb.cn/item/67bd34a6d0e0a243d40443c7.png" />
+<img src="https://pic1.imgdb.cn/item/67bd34a6d0e0a243d40443c8.png" />
+<img src="https://pic1.imgdb.cn/item/67bd34a6d0e0a243d40443c9.png" />
